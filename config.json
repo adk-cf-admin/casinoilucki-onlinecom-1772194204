@@ -1,0 +1,220 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1B222B",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B222B",
+            "welcome-bonus-bg": "#1B222B",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#2f3a4a",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#181c1f",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#596675",
+            "yellow-button": "#6944D2",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B222B",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#1B222B",
+            "faq-label": "#1B222B",
+            "bg-footer": "#1B222B",
+            "copyright": "#e7e7d5",
+            "starColor": "#6944D2",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3667"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3669",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "iLucki Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3670",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "iLucki Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "iLucki Casino",
+                    "title": "iLucki Casino — Best Online Casino | €300 Bonus",
+                    "description": "Play at iLucki Casino with 6000+ licensed games, live dealers & €300 welcome bonus + 150 free spins. Curaçao-licensed operator. Join today!\n",
+                    "canonical": "casinoilucki-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3671",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinoilucki-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3672"
+                },
+                "hero": {
+                    "title": "Your Premier Global Online Casino Experience",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3673",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3674",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted international online casino? We hold a valid Curaçao eGaming licence, operate 6000+ certified games from 42+ providers, and process instant withdrawals via e-wallets worldwide. Here's why players globally choose iLucki:\n",
+                    "items": [
+                        "Curaçao eGaming licensed & certified — fair play guaranteed worldwide",
+                        "6000+ games from 42+ providers: NetEnt, Pragmatic Play, Evolution Gaming",
+                        "Welcome bonus up to €300 + 150 free spins across first two deposits",
+                        "Instant withdrawals via Skrill, Neteller & Bitcoin within 1-2 hours",
+                        "20+ payment methods including crypto: BTC, ETH, LTC, DOGE, Tether",
+                        "24\/7 live chat support in English — responsive agents, no chatbots"
+                    ],
+                    "advantagesAfterText": "Join over 500,000 players worldwide enjoying secure, certified gaming at iLucki. Our independently audited platform delivers fair results on every spin, hand, and roll — 24\/7, for players everywhere.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "iLucki Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3675",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "iLucki Casino App",
+                    "mobileGooglePlayImageTitle": "iLucki Casino App",
+                    "mobileIosImageTitle": "iLucki Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About iLucki Casino",
+                        "description1": "We launched iLucki Casino to bring premium online gaming to players worldwide. Operated by Dama N.V. under a Curaçao eGaming licence, we've built a globally trusted platform with 6000+ certified games and a reputation for fast, transparent payouts.\n",
+                        "items": [
+                            "Launched global platform with 3000+ certified slots",
+                            "Integrated Evolution Gaming & Ezugi live casino studios",
+                            "Added 20+ crypto & e-wallet payment methods globally",
+                            "Expanded to 6000+ games across 42+ licensed providers"
+                        ],
+                        "description2": "We hold a Curaçao eGaming licence and use SSL 256-bit encryption on all transactions. Every game runs on certified RNG technology for fair outcomes. Our platform meets responsible gambling standards verified by independent reviewers.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3676",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We expand our game library weekly with top providers. Our responsible gaming tools — deposit limits and self-exclusion — keep every player in control. Discover why players worldwide trust iLucki for premium online gaming.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio at iLucki Casino",
+                        "description": "<h2>Complete Game Portfolio at iLucki Casino<\/h2>\n\n<p>At iLucki Casino, we offer one of the most extensive online gaming libraries available to players worldwide — over 6,000 certified titles spanning slots, table games, live dealer experiences, and progressive jackpots. Our platform partners with 42+ leading software providers including NetEnt, Pragmatic Play, Play'n GO, Evolution Gaming, Yggdrasil, Big Time Gaming, Nolimit City, Ezugi, Quickspin, and Red Tiger Gaming. Every single game on our platform uses certified Random Number Generator (RNG) technology, ensuring fair outcomes on every spin, deal, or roll. Whether you're a slots enthusiast chasing massive progressive jackpots, a strategic blackjack player optimizing for that 99.5% RTP, or a live casino fan who craves the atmosphere of a real-world casino studio, iLucki has you covered.<\/p>\n\n<h3>Online Slots: 3000+ Titles from the World's Top Providers<\/h3>\n<p>Our slots library is the beating heart of iLucki Casino. With over 3,000 licensed slot machines available, players can explore classic three-reel games, high-volatility video slots packed with bonus features, Megaways engines with thousands of paylines, and Bonus Buy titles for instant feature access. Renowned providers like NetEnt deliver legendary games such as Starburst (RTP 96.09%), Dead or Alive 2 (RTP 96.82%), and Gonzo's Quest (RTP 95.97%). Pragmatic Play brings fan favourites like The Dog House (RTP 96.51%) and Gates of Olympus (RTP 96.5%). Nolimit City offers cutting-edge mechanics in titles like Mental (RTP 96.01%) and San Quentin (RTP 96%). Play'n GO contributes iconic slots including Book of Dead (RTP 96.21%) and Reactoonz (RTP 96.51%). Yggdrasil Gaming adds visual spectacle with Valley of the Gods 2 and Empire Fortune. Every slot in our library is clearly labelled with its RTP percentage, allowing players worldwide to make informed decisions before wagering real money.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Hundreds of titles powered by Big Time Gaming's Megaways engine, including Bonanza Megaways (RTP 96%), Extra Chilli (RTP 96.9%), and Volatile Vikings Megaways (RTP 96.4%). These games feature up to 117,649 ways to win on every spin, delivering relentless action and massive potential payouts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Slots:<\/strong> Players looking for immediate bonus feature access can purchase direct entry into free spins rounds on eligible titles. Available on games like Relax Gaming's Money Train 4 and Nolimit City's xNudge titles, with transparent cost multipliers clearly displayed.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Our progressive jackpot section features life-changing prize pools that accumulate across player networks globally. Titles include Mega Moolah by Microgaming, known for record-breaking payouts exceeding €20 million, Divine Fortune by NetEnt with a minor\/major\/mega jackpot structure, and numerous network jackpot titles from Pragmatic Play's Drops & Wins programme.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Slots:<\/strong> For players who appreciate simplicity, our classic slots selection includes three-reel and five-reel fruit machines from Amatic Industries, Igrosoft, and Belatra Games. These titles offer straightforward gameplay with RTPs typically between 95% and 97%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New Releases:<\/strong> We update our game library weekly with the latest releases from all major providers. Our \"New Games\" section is refreshed constantly so players worldwide always have access to the freshest titles in the global online casino market.<\/li>\n<\/ul>\n\n<h3>Live Casino: Real Dealers, HD Streaming, Authentic Atmosphere<\/h3>\n<p>Our live casino section brings the thrill of a brick-and-mortar casino directly to your screen via HD live streaming from professional studios. Powered by Evolution Gaming — the global leader in live dealer technology — as well as Ezugi, Pragmatic Play Live, Lucky Streak, Atmosfera, and Vivo Gaming, we host over 80 live dealer tables covering every major casino category. Professional English-speaking dealers manage every game in real time, creating an authentic gaming atmosphere for players around the world. All live streams feature multiple camera angles, seamless HD video quality, and interactive chat functionality so players can communicate directly with dealers and fellow participants.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> Including European Roulette (RTP 97.3%), Lightning Roulette with multipliers up to 500x, XXXTreme Lightning Roulette, Immersive Roulette, Speed Roulette, French Roulette with La Partage rule, and Azure Roulette. Betting limits range from €0.20 to €5,000 per spin across all tables.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Featuring Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited player seats, Speed Blackjack for faster rounds, VIP Blackjack tables with limits up to €10,000, and Lightning Blackjack with random multipliers. Side bets including Perfect Pairs and 21+3 are available on most tables.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for rapid rounds, Lightning Baccarat with random multipliers, No Commission Baccarat, and Squeeze Baccarat for the ultimate suspense experience. VIP rooms offer extended betting limits for high-rollers worldwide.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker:<\/strong> Casino Hold'em (RTP 97.84%), Three Card Poker, Caribbean Stud Poker with progressive jackpot exceeding €200,000+, Ultimate Texas Hold'em, and 2 Hands Casino Hold'em. These games combine the strategic depth of poker with the convenience of live online play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time (max win 20,000x), Monopoly Live combining iconic board game elements with live casino excitement, Mega Ball bingo-lottery hybrid, Deal or No Deal Live, Dream Catcher money wheel, and Gonzo's Treasure Hunt with a 3D immersive world. These unique formats are exclusive to the live casino sector and represent the cutting edge of online gambling entertainment.<\/li>\n<\/ul>\n\n<h3>Table Games & Video Poker: Classic Casino Action Online<\/h3>\n<p>Beyond our live casino, iLucki Casino offers an extensive digital table games section featuring hundreds of certified RNG-based variants of classic casino favourites. Players who prefer to play at their own pace without waiting for live dealer availability will find our digital table games library to be just as immersive. Providers like Pragmatic Play, Play'n GO, NetEnt, Ezugi, and NYX Interactive contribute to this category. Our digital roulette selection alone covers over 15 variants including European, French, American, multi-wheel, and rapid-play formats.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #7b2fff;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Provider<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">99.5%<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">NetEnt<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a2e;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">97.3%<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">Evolution<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">98.94%<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Pragmatic Play<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a2e;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\"><strong>Casino Hold'em<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">97.84%<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">Play'n GO<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Video Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">99.54%<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">NetEnt<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a2e;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\"><strong>Three Card Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">96.63%<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">Evolution<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Sic Bo<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">97.22%<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Ezugi<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Mobile Gaming: Play Anywhere in the World<\/h3>\n<p>iLucki Casino is fully optimised for mobile play across all devices and operating systems. Whether you're using an iPhone, Android smartphone, iPad, or tablet, our platform adapts seamlessly to your screen size via a responsive mobile web browser — no app download required. The entire catalogue of 6,000+ games is available on mobile, including all live dealer tables streaming in HD quality. Mobile players worldwide enjoy the same fast lobby navigation, instant deposit processing, and 24\/7 live chat support as desktop users. Performance testing across devices confirms smooth gameplay with minimal load times, even on mid-range mobile hardware.<\/p>\n\n<h3>Responsible Gaming: Playing Safely at iLucki<\/h3>\n<p>We are firmly committed to responsible gambling practices for all players on our international platform. Our Curaçao eGaming licence requires us to maintain strict player protection standards, and we go beyond the minimum requirements. iLucki Casino provides a comprehensive suite of responsible gaming tools accessible directly from your account dashboard — no need to contact support to activate them. Players can set daily, weekly, or monthly deposit limits that prevent overspending before it becomes a problem. Additionally, wager limits and loss limits are available to help maintain full control over your gambling activity at all times.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly caps on how much you can deposit. Changes to increase limits require a 24-hour cooling period to prevent impulsive decisions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Check Reminders:<\/strong> Configure automatic pop-up notifications at set time intervals during gameplay to remind you how long you've been playing and how much you've wagered.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cool-Off Periods:<\/strong> Take a short break from gambling by activating a cooling-off period of one week, one month, three months, or six months. Your account remains accessible for withdrawals during this period.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> For players who need a more decisive break, self-exclusion locks your account for six months, nine months, or one full year. During self-exclusion, you cannot log in or make new deposits, so please withdraw your balance beforehand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Direct Links to Help Organisations:<\/strong> We provide direct links to internationally recognised responsible gambling organisations including GamCare, Gamblers Anonymous, and BeGambleAware on our dedicated Responsible Gaming page, available 24\/7 to players globally.<\/li>\n<\/ul>\n\n<p>We also implement strict age verification protocols to prevent underage gambling. All players must verify their identity and age during the KYC process before making any withdrawal. Our self-assessment test helps players reflect on their gambling habits, and our support team is trained to recognise and assist players who may be experiencing gambling-related difficulties. At iLucki Casino, we believe that sustainable, enjoyable gaming is the foundation of everything we do — and our responsible gaming tools are here to make sure every player's experience remains a positive one, wherever in the world they play.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & VIP at iLucki",
+                        "description": "<h2>Banking, Bonuses & VIP Rewards at iLucki Casino<\/h2>\n\n<p>At iLucki Casino, we've built a financial ecosystem designed to give players worldwide maximum flexibility, speed, and security when depositing, withdrawing, and claiming bonuses. We support 20+ payment methods spanning traditional bank cards, leading e-wallets, bank wire transfers, and a comprehensive selection of cryptocurrencies. Our minimum deposit is just €10, making us accessible to all player budgets — from casual recreational gamblers to high-rollers who regularly withdraw at our VIP unlimited tier. All transactions on our platform are protected by SSL 256-bit encryption technology, ensuring your financial data remains completely secure throughout every step of the payment process. Beyond security, we pride ourselves on processing e-wallet and crypto withdrawals within 1-2 hours, making iLucki one of the fastest-paying online casinos available to international players today.<\/p>\n\n<h3>Deposit Methods: How to Fund Your iLucki Casino Account<\/h3>\n<p>Funding your iLucki Casino account is quick, straightforward, and commission-free. We process all deposits instantly, meaning your funds appear in your account balance within seconds of completing a transaction. Our payment infrastructure supports over 20 distinct deposit methods covering every major payment category used by online casino players globally. Credit and debit card deposits via Visa and Mastercard are processed instantly with limits from €10 to €3,000. E-wallet users can deposit via Skrill, Neteller, EcoPayz, and Zimpler — all processed instantly with limits up to €5,000. Players who prefer anonymous or decentralised transactions can deposit using Bitcoin, Ethereum, Litecoin, Dogecoin, and Tether USDT, with crypto deposits processed within one blockchain confirmation.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #7b2fff;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Speed<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">€10<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a2e;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">€10<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">Instant<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">€10<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a2e;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">€40<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">~10 min<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Ethereum<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">€10<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">~5 min<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a2e;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\"><strong>Paysafecard<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">€10<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px; color: #fff;\">Instant<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Neosurf<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">€10<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Withdrawal Process: Fast, Reliable Payouts at iLucki<\/h3>\n<p>We understand that fast payouts are one of the most important factors for online casino players worldwide, and we've made it a top priority at iLucki Casino. E-wallet withdrawals via Skrill, Neteller, and Zimpler are typically processed within 1-2 hours of approval, while cryptocurrency withdrawals to Bitcoin, Ethereum, and Litecoin wallets are dispatched within the same timeframe — often in under an hour for verified accounts. Bank card withdrawals to Visa and Mastercard accounts take 3-5 business days, as per standard card network processing times. The minimum withdrawal amount is €20, and our standard monthly limit is €10,000 for regular players. However, our VIP programme substantially increases these limits — see our VIP section below for full details. To ensure seamless withdrawals, we recommend completing your KYC (Know Your Customer) identity verification immediately after registration. The verification process typically takes under 24 hours and only needs to be completed once. Required documents include government-issued photo ID, proof of address (utility bill or bank statement dated within three months), and payment method verification where applicable.<\/p>\n\n<h3>Welcome Bonus: Up to €300 + 150 Free Spins<\/h3>\n<p>New players at iLucki Casino are welcomed with one of the most rewarding sign-up packages available globally — a two-part welcome bonus totalling up to €300 in bonus funds plus 150 free spins spread across your first two deposits. This generous package gives you immediate extra playing power to explore our 6,000+ game library right from the moment you join. The welcome bonus is straightforward to claim: simply make your qualifying deposit of at least €20 using any supported payment method, and your bonus funds plus free spins will be credited automatically within minutes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>First Deposit Bonus:<\/strong> 100% match bonus up to €100 plus 100 free spins. Deposit €20 and play with €40 — deposit €100 and play with €200. The 100 free spins are credited on eligible slot titles including fan favourites from Pragmatic Play and BGaming.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Second Deposit Bonus:<\/strong> 50% match bonus up to €200 plus 50 free spins. Deposit €200 on your second deposit and receive an additional €100 in bonus funds plus 50 more free spins to keep the momentum going.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wagering Requirements:<\/strong> Both deposit bonuses carry a 45x wagering requirement on the bonus amount, which must be completed within 30 days of activation. Slots contribute 100% towards wagering, while blackjack and roulette contribute 10%, and other table games contribute 5%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Free Spins Terms:<\/strong> The 150 free spins carry 0x wagering on winnings — meaning any winnings from free spins are credited directly as real cash with no additional playthrough requirements.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Maximum Bonus Bet:<\/strong> While playing with active bonus funds, the maximum single bet permitted is €5 per spin or per hand. This standard industry restriction protects the integrity of our bonus programme and ensures compliance with our Curaçao licence terms.<\/li>\n<\/ul>\n\n<h3>Ongoing Promotions: Rewards Every Day of the Week<\/h3>\n<p>At iLucki Casino, our promotions calendar ensures that players worldwide have access to fresh bonuses and free spins opportunities throughout the entire week — not just on sign-up. Our weekly promotions schedule includes a Tuesday Reload Bonus of 35% up to €250 plus 100 free spins (minimum deposit €20, bonus code LUCKYSPINS), a Wednesday Free Spins promotion delivering up to 150 free spins based on deposit size, and a Friday-to-Sunday Weekend Reload of 40% up to €50 plus 100 free spins. Every Monday, players can claim a 20% cashback on net losses from the previous week, with cashback percentages increasing at higher VIP tiers. All weekly promotions carry the standard 50x wagering requirement on bonus funds.<\/p>\n\n<h3>VIP Programme: Five Tiers of Exclusive Rewards<\/h3>\n<p>Our iLucki VIP loyalty programme rewards dedicated players with progressively better benefits as they climb through five distinct tiers: Steel, Bronze, Silver, Gold, and Platinum. Status points are earned automatically on every real money wager placed across our entire game catalogue — slots, table games, and live casino all contribute. Higher tiers unlock tangible benefits including enhanced cashback percentages, higher weekly and monthly withdrawal limits, exclusive VIP-only bonuses, dedicated account managers, and priority withdrawal processing. The Platinum tier — our pinnacle VIP level — offers unlimited monthly withdrawal limits, the highest cashback rate of 20%, and access to exclusive high-roller tournaments with prize pools exceeding €50,000.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Steel Tier:<\/strong> Entry level with 100-999 status points. Benefits include 20 gift spins, 5% cashback with 30x wagering, fast cashout, €2,500 weekly and €10,000 monthly withdrawal limits.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bronze Tier:<\/strong> 1,000-4,999 status points. Benefits include 50 gift spins, 10% cashback with 25x wagering, exclusive bonuses, fast cashout, €2,500 weekly and €10,000 monthly withdrawal limits.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Silver Tier:<\/strong> 5,000-19,999 status points. Benefits include 200 gift spins, 15% cashback with 20x wagering, dedicated account manager, €5,000 weekly and €12,000 monthly withdrawal limits.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Gold Tier:<\/strong> 20,000+ status points. Benefits include exclusive high-value bonuses, 18% cashback, faster cashout processing, €7,500 weekly and €20,000 monthly withdrawal limits, and priority customer support access.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Platinum Tier:<\/strong> Our elite level for the most loyal iLucki players. Enjoy unlimited monthly withdrawal limits, 20% cashback with reduced wagering, bespoke bonus packages negotiated with your personal VIP manager, access to exclusive tournaments, and the fastest withdrawal priority on our platform.<\/li>\n<\/ul>\n\n<p>Additionally, we run regular slot tournaments and prize drop campaigns — including participation in Pragmatic Play's Drops & Wins network, which distributes daily and weekly cash prizes across eligible slot titles. Players worldwide can participate in leaderboard competitions with prize pools updated in real time. Our tournaments section is refreshed monthly with new competitions across different game categories, ensuring there is always something exciting to compete for at iLucki Casino — no matter where in the world you're playing from.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus at iLucki Casino?",
+                            "answer": "Register your account and make a minimum €20 deposit via any supported method. Your 100% bonus up to €100 plus 100 free spins credits automatically within minutes. The second deposit bonus of 50% up to €200 plus 50 spins follows the same process. Wagering is 45x the bonus within 30 days.\n"
+                        },
+                        {
+                            "title": "Is iLucki Casino licensed and safe for real money play?",
+                            "answer": "Yes. iLucki Casino is operated by Dama N.V. under a valid Curaçao eGaming licence. We use SSL 256-bit encryption on all transactions and certified RNG technology on every game. Our platform includes full responsible gaming tools including deposit limits, self-exclusion, and direct links to help organisations.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at iLucki Casino?",
+                            "answer": "E-wallet withdrawals via Skrill, Neteller, and Zimpler are processed within 1-2 hours of approval. Cryptocurrency withdrawals to Bitcoin, Ethereum, or Litecoin complete within a similar timeframe. Bank card withdrawals (Visa, Mastercard) take 3-5 business days. Complete KYC verification upfront for the fastest payouts.\n"
+                        },
+                        {
+                            "title": "What payment methods does iLucki Casino accept?",
+                            "answer": "We accept 20+ payment methods including Visa, Mastercard, Skrill, Neteller, EcoPayz, Zimpler, Paysafecard, Neosurf, and cryptocurrencies: Bitcoin, Ethereum, Litecoin, Dogecoin, and Tether USDT. The minimum deposit is €10. All transactions are commission-free and processed via SSL 256-bit encrypted connections.\n"
+                        },
+                        {
+                            "title": "How many games are available at iLucki Casino?",
+                            "answer": "We offer over 6,000 certified games from 42+ software providers including NetEnt, Pragmatic Play, Evolution Gaming, Play'n GO, Yggdrasil, Big Time Gaming, Nolimit City, and Ezugi. The library spans slots, live dealer tables, digital table games, video poker, progressive jackpots, and game shows.\n"
+                        },
+                        {
+                            "title": "Can I play iLucki Casino games on my mobile phone?",
+                            "answer": "Yes. iLucki Casino is fully optimised for mobile via your browser — no app download needed. The complete library of 6,000+ games, including all live dealer tables, is available on iOS and Android smartphones and tablets. The mobile platform delivers the same fast performance and secure banking as desktop.\n"
+                        },
+                        {
+                            "title": "What is the iLucki Casino VIP programme and how does it work?",
+                            "answer": "Our VIP programme has five tiers: Steel, Bronze, Silver, Gold, and Platinum. You earn status points automatically on every real money wager. Benefits include cashback from 5% to 20%, gift spins, higher withdrawal limits up to unlimited at Platinum tier, dedicated account managers, and exclusive bonus offers.\n"
+                        },
+                        {
+                            "title": "What documents do I need for account verification at iLucki?",
+                            "answer": "KYC verification requires a government-issued photo ID (passport or national ID card), proof of address (utility bill or bank statement dated within three months), and payment method verification. The process typically completes within 24 hours. We recommend completing verification immediately after registration for faster withdrawals.\n"
+                        },
+                        {
+                            "title": "Does iLucki Casino offer live dealer games?",
+                            "answer": "Yes. Our live casino features 80+ HD-streamed tables powered by Evolution Gaming, Ezugi, Pragmatic Play Live, and Lucky Streak. Games include Live Roulette, Live Blackjack, Live Baccarat, Live Poker, and exclusive game shows like Crazy Time and Monopoly Live. English-speaking professional dealers are available 24\/7.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "iLucki Casino",
+  "short_name": "iLucki Casino",
+  "theme_color": "",
+  "background_color": "#1B222B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772193833-faviconv2.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
